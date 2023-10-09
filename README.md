@@ -1,7 +1,7 @@
 # Buy More
-## Team - HAX
 
-### Conversational Fashion Outfit Generator using GenAI - Flipkart Grid 5.0
+
+### Conversational Fashion Outfit Generator using GenAI
 - *Revolutionizing Fashion Discovery*: Gen AI-powered outfit generator reshapes fashion search, offering personalized recommendations from past purchases, preferences, and social trends.
 - *Personalized Trendy Outfits*: Utilizes past purchases, style preferences, and current trends to craft well-coordinated outfits, elevating user shopping on Flipkart.
 - *Social Trend Integration*: Incorporates social media insights, aligning fashion choices with influencer trends for on-point outfit suggestions.
@@ -23,10 +23,5 @@ https://github.com/Devang-Shah-49/flipchat-fabric/assets/80088008/652b66b3-e482-
 
 ### Solution Presentation
 PPT: https://drive.google.com/file/d/1UzCW62VA7vt3GQTZjpfOOQrfnuvYys3c/view?usp=sharing
-
-### Contributors
-- [Devang Shah](https://github.com/Devang-Shah-49)
-- [Rishabh Jain](https://github.com/rish-2912)
-- [Ayush Deshmukh](https://github.com/Ayush_Deshmukh)
 
 
