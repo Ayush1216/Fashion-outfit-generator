@@ -21,7 +21,5 @@
 ### Demo
 https://github.com/Devang-Shah-49/flipchat-fabric/assets/80088008/652b66b3-e482-49e9-9d9f-318616a0e45f
 
-### Solution Presentation
-PPT: https://drive.google.com/file/d/1UzCW62VA7vt3GQTZjpfOOQrfnuvYys3c/view?usp=sharing
 
 
