@@ -8,10 +8,10 @@
 - *Interactive Shopping Experience*: Users interactively fine-tune outfits, ensuring a confident shopping journey tailored to individual needs and occasions.
 
 ### Project Structure
-- [Recommendation System - Python, Vector DB, Falcon 7B LLM, Flask, PyMongo](https://github.com/Devang-Shah-49/flipchat-fabric/tree/rishabh/backend)
-- [Social Media Trends Extraction - Selenium, Instagram, Twitter, PyTrends, Tweepy](https://github.com/Devang-Shah-49/flipchat-fabric/tree/rishabh/scrappers)
-- [Frontend - React JS, Redux, Axios, Vite](https://github.com/Devang-Shah-49/flipchat-fabric/tree/rishabh/client)
-- [Backend - Node JS, MongoDB, Express JS, PayTM payment gateway](https://github.com/Devang-Shah-49/flipchat-fabric/tree/rishabh/server)
+- [Recommendation System - Python, Vector DB, Falcon 7B LLM, Flask, PyMongo](https://github.com/Ayush1216/Fashion-outfit-generator/tree/source_code/backend)
+- [Social Media Trends Extraction - Selenium, Instagram, Twitter, PyTrends, Tweepy](https://github.com/Ayush1216/Fashion-outfit-generator/tree/source_code/scrappers)
+- [Frontend - React JS, Redux, Axios, Vite](https://github.com/Ayush1216/Fashion-outfit-generator/tree/source_code/client)
+- [Backend - Node JS, MongoDB, Express JS, PayTM payment gateway](https://github.com/Ayush1216/Fashion-outfit-generator/tree/source_code/server)
 
 ### Challenges we ran into
 - Adapting the outfit recommendations to accommodate diverse cultural and regional preferences like occasion, age, body_type, fit, size and regional nuances - Solved by incorporating [Rent-the-runway dataset](https://cseweb.ucsd.edu/~jmcauley/datasets.html#clothing_fit).
