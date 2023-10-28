@@ -19,7 +19,5 @@
 - GPU limitations - Tackled by setting up an ngrok server on Kaggle's cloud notebook, leveraging GPU-P100 for seamless and resource-efficient model training.
 
 ### Demo
-https://github.com/Devang-Shah-49/flipchat-fabric/assets/80088008/652b66b3-e482-49e9-9d9f-318616a0e45f
-
-
+https://github.com/Ayush1216/Fashion-outfit-generator/assets/117370033/65bb4a73-2783-45ac-aa91-078bbaf5a9b7
 
